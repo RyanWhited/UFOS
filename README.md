@@ -2,7 +2,7 @@
 ![Albert-Anthony-UFO-Pic](https://github.com/RyanWhited/UFOS/blob/main/images/albert-antony-HWQXIYbs8PM-unsplash.jpg)
 
 ## Overview
-It was requested to provide a more in-depth analysis of the UFO sightings web page by allowing users to filter for multiple criteria at the same time. In addition to the original date filter, I added table filters for the city, state, country, and shape.
+Requested to provide a more in-depth analysis of the UFO sightings web page by allowing users to filter for multiple criteria at the same time. In addition to the original date filter, I added table filters for the city, state, country, and shape.
 
 ## Results
 
